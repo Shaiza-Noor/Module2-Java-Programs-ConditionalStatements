@@ -1,0 +1,31 @@
+ Leap Year Checker (Java)
+This project contains a simple Java program that checks whether a given year is a leap year according to the standard rules.
+
+## 📖 Description
+- Prompts the user to enter a year (integer)
+- Determines if the year is a leap year using multiple conditions:
+  - A year is a leap year if it is divisible by 4 **and not** divisible by 100, **or** it is divisible by 400
+- Prints whether the year is a leap year or not
+- Handles typical examples:
+  - 2000 → leap year
+  - 1900 → not a leap year
+  - 2004 → leap year
+📌 Learning Concepts
+Using Scanner for user input
+Conditional statements (if-else)
+Logical operators (&&, ||) for multiple conditions
+
+
+
+?
+
+
+
+
+
+
+
+
+
+
+
