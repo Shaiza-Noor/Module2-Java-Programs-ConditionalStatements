@@ -1,0 +1,18 @@
+## Login Simulator (Java)
+This project is a simple **Login Simulator** written in Java.  
+It asks the user to enter a username and password, then checks the credentials against predefined values.
+
+## Description
+- Prompts the user for a username and password
+- Validates if the username is `admin` and password is `admin123`
+- If both match → prints **"Login Successful!"**
+- Otherwise → prints **"Invalid Credentials. Please try again."**
+
+## ⚙️ Requirements
+- Java Development Kit (JDK 8 or later)
+- Command line or any IDE (e.g., VS Code, IntelliJ, Eclipse)
+
+"Learning Concepts"
+Taking user input with Scanner
+Using .equals() for string comparison
+Using conditional statements (if-else) in Java
