@@ -1,0 +1,15 @@
+## Basic Calculator (Java)
+
+This project contains a simple Java program that performs a **single arithmetic operation** on two numbers.  
+It allows the user to input two numbers and choose an operation (`+`, `-`, `*`, `/`).
+## 📖 Description
+- Prompts the user to enter **two numbers**.
+- Asks for the **desired operation**: `+` (addition), `-` (subtraction), `*` (multiplication), `/` (division).
+- Performs the calculation based on the chosen operation.
+- Prints the **result** of the calculation.
+- Handles **division by zero** and invalid operations gracefully.
+📌 Learning Concepts
+Taking user input with Scanner
+Using if-else statements
+Performing arithmetic operations
+Handling errors such as division by zero and invalid inputs
