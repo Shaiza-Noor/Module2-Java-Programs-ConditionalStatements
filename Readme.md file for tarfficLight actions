@@ -1,0 +1,15 @@
+# Traffic Light Simulator (Java)
+This project contains a simple Java program that simulates traffic light actions.  
+It asks the user to enter a traffic light color and displays the corresponding action.
+## 📖 Description
+- Prompts the user to enter a traffic light color (`red`, `yellow`, or `green`)
+- Uses if-else statements to display the corresponding action:
+  - `"red"` OUTPUT:`"Stop"`
+  - `"yellow"` OUTPUT:`"Slow Down"`
+  - `"green"` OUTPUT:`"Go"`
+- Handles invalid input by displaying an error message
+- Demonstrates basic string comparison using `.equals()`
+- 📌 Learning Concepts
+Using Scanner for user input
+Conditional statements (if-else)
+String comparison with .equals()
